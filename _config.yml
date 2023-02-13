@@ -4,11 +4,15 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: http://bestwing.me
-  文章归档: /archives
-  学习导航: /CTFStudy
-  PWNABLE: /PWNABLE
-  个人简历: /resume
+  # SKILLS: http://bestwing.me
+  SKILLS: /skills
+  HOBBIES: /hobbies
+  EDUCATION: /education
+  ABOUT ME: /about-me
+  LINKEDIN: https://www.linkedin.com/in/demarcus-williams-b990011b3/
+  COVERLETTER: /cover-letter
+  # PWNABLE: /PWNABLE
+  Resume: /resume
 
 # Link to your avatar | 填写头像地址
 avatar: img/head.jpg
@@ -23,11 +27,12 @@ favicon: "http://oayoilchh.bkt.clouddn.com/2016/07/27/18:05:26%20"
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kvH99PT39-Dn_efS5PvivOPjvPH9-w"
-  github: "https://github.com/WinMin"
-  zhihu: "https://www.zhihu.com/people/Swings"
-  weibo: "http://weibo.com/2672317963/profile?topnav=1&wvr=6&is_all=1"
-  rss: /atom.xml
+  mail: "https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=obv2vqskss65#inbox"
+  github: "https://github.com/Dwilliams-banyan"
+  # linkedIn: "https://www.linkedin.com/in/demarcus-williams-b990011b3/"
+  # zhihu: "https://www.zhihu.com/people/Swings"
+  # weibo: "http://weibo.com/2672317963/profile?topnav=1&wvr=6&is_all=1"
+  # rss: /atom.xml
   # facebook: "#"
   # rss: /atom.xml
   # pinterest: "#"
